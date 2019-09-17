@@ -7,9 +7,14 @@ $(TARGET): main.c
 	
 test: $(TARGET)
 	@./a.out < ${input} > output.txt
-#	@ls -lsa
-#	@echo "$(<output.txt)"
-	@if diff output.txt ${expect} > /dev/null; then echo "test: OK"; else echo "test: NG"; echo "output:"; cat output.txt; exit 1; fi
+	@if diff result.txt ${expect} > /dev/null; then \
+		echo "test: OK"; else \
+		echo "test: NG"; \
+		echo "* 入力:"; cat ${input}; \
+		echo "* 期待される結果:"; cat ${expect}; \
+		echo "* 実際の結果:"; cat result.txt; \
+		exit 1; \
+	fi
 
 clean:
 	rm -f output.txt $(TARGET)
