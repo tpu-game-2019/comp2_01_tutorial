@@ -6,7 +6,7 @@ $(TARGET): main.c
 	$(CC) $(CFLAGS) $^ -o $(@)
 	
 test: $(TARGET)
-	@./a.out < ${input} > output.txt
+	@./a.out < ${input} > result.txt
 	@if diff result.txt ${expect} > /dev/null; then \
 		echo "test: OK"; else \
 		echo "test: NG"; \
