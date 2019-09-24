@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/Khazki/khazki.svg?branch=master)](https://travis-ci.org/Khazki/khazki)
+[![Build Status](https://travis-ci.org/Khazki/01_tutorial.svg?branch=master)](https://travis-ci.org/Khazki/01_tutorial)
 
 # 今回の問題
 
