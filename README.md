@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/g1927044/01_tutorial.svg?branch=master)](https://travis-ci.com/g1927044/01_tutorial)
+[![Build Status](https://travis-ci.com/g1927044/01_tutorial.svg?branch=master)](https://travis-ci.com/g1927044/01_tutorial)
 
 # 今回の問題
 
