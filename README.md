@@ -3,7 +3,7 @@
 # 進め方
 ## はじめてのとき
 * [GitHub](https://github.com/)のアカウントを作成してください
-* [Travis CI](https://travis-ci.org/) のアカウントを作成してください
+* [Travis CI](https://travis-ci.com/) のアカウントを作成してください
 * GitHubのアカウントを[こちらのフォーム](https://forms.gle/k5zoXyy4yAWNPz4KA)から教えてください。
 ## 毎回の進め方
 * このリポジトリをforkしてください
@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp-2019/01_tutorial.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp-2019/01_tutorial)
+[![Build Status](https://travis-ci.com/t-kougei-game-comp-2019/01_tutorial.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp-2019/01_tutorial)
 
 # 今回の問題
 
