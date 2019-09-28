@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[ ！[ビルドステータス] （https://travis-ci.org/yama0322/01_tutorial.svg?branch=master）]（https：//travis-ci.org/yama0322/01_tutorial)
+[![Build Status](https://travis-ci.org/yama0322/01_tutorial.svg?branch=master)](https://travis-ci.org/yama0322/01_tutorial)
 
 # 今回の問題
 
