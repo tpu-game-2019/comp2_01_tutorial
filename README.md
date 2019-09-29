@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.com/AzbyLuzman/01_tutorial.svg?branch=master)](https://travis-ci.com/AzbyLuzman/01_tutorial)
+[![Build Status](https://travis-ci.org/AzbyLuzman/01_tutorial.svg?branch=master)](https://travis-ci.org/AzbyLuzman/01_tutorial)
 
 # 今回の問題
 
