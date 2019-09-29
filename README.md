@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.com/t-kougei-game-comp-2019/01_tutorial.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp-2019/01_tutorial)
+[![Build Status](https://travis-ci.com/g1927009/01_tutorial.svg?branch=master)](https://travis-ci.com/g192709/01_tutorial)
 
 # 今回の問題
 
