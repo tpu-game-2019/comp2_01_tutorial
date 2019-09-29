@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.com/yasu2520/01_tutorial.svg?branch=master)](https://travis-ci.com/yasu2520/01_tutorial)
+[![Build Status](https://travis-ci.com/t-kougei-game-comp-2019/01_tutorial.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp-2019/01_tutorial)
 
 # 今回の問題
 
